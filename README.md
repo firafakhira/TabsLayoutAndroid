@@ -15,4 +15,4 @@ Kita mulai menyesuaikan TabLayout kita dengan menetapkan nilai atribut yang akan
 
 
 
-![Android SQLite Notes App](https://www.androidhive.info/wp-content/uploads/2011/11/android-sqlite-notes-app.png)
+
